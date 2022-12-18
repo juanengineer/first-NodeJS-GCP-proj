@@ -1,0 +1,15 @@
+{
+  "name": "nology",
+  "version": "1.0.0",
+  "description": "The nology challenge is to serve pokemon data.",
+  "main": "pokemonserver.js",
+  "scripts": {
+    "start": "node pokemonserver.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Castellanos-Smith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
